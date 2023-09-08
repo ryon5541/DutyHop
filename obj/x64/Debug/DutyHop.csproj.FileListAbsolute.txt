@@ -1,0 +1,10 @@
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.csproj.AssemblyReference.cache
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.GeneratedMSBuildEditorConfig.editorconfig
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.AssemblyInfoInputs.cache
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.AssemblyInfo.cs
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.csproj.CoreCompileInputs.cache
+C:\Users\ryo05\AppData\Roaming\XIVLauncher\devPlugins\DutyHop\DutyHop.deps.json
+C:\Users\ryo05\AppData\Roaming\XIVLauncher\devPlugins\DutyHop\DutyHop.dll
+C:\Users\ryo05\AppData\Roaming\XIVLauncher\devPlugins\DutyHop\DutyHop.pdb
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.dll
+D:\!XIVPlugin\01\DutyHop\obj\x64\Debug\DutyHop.pdb

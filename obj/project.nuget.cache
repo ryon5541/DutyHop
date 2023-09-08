@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c86/27YBRq/j1OUUXJYatqzgN7RQnwF5tx9vDNAPpMiv8np2KSMvE7QbOdEOtbM+CQIFpYZWiRevlPEU7VZbRg==",
+  "success": true,
+  "projectFilePath": "D:\\!XIVPlugin\\01\\DutyHop\\DutyHop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryo05\\.nuget\\packages\\dalamudpackager\\2.1.11\\dalamudpackager.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

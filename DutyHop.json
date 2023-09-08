@@ -1,0 +1,12 @@
+{
+  "Author": "Marxvee, ryon5541",
+  "Name": "DutyHop",
+  "Punchline": "Leave duties like there's no tomorrow.",
+  "Description": "Allows you to instantly leave duties with a single command.",
+  "InternalName": "DutyHop",
+  "DalamudApiLevel": 8,
+  "Tags": [
+    "utility"
+  ],
+  "RepoUrl": "https://github.com/ryon5541/DutyHop"
+}
